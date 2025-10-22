@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 7 - Espressor
+# CMPUT 301 : Lab 7 - Espresso
 
 ## Student Details
 
@@ -14,3 +14,4 @@ Used lab code along with Google searches.
 | Student Name | CCID     |
 | ------------ | -------- |
 | `None` | `None` |
+
